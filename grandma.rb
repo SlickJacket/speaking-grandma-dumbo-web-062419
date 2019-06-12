@@ -21,6 +21,6 @@ def speak_to_grandma(phrase)
   else
     return "I can't hear you."
   end
-    
+
 
 end
